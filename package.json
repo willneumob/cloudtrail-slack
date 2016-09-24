@@ -1,6 +1,6 @@
 {
   "name": "cloudtrail-slack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": "bin/cloudtrail-slack",
   "scripts": {
